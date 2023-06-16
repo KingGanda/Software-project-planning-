@@ -1,0 +1,195 @@
+Date/Time:       2023-06-16 18:45:50 
+Command line:    C:\Users\mkmy7\myvenv\Scripts\briefcase dev
+
+OS Release:      Windows 10
+OS Version:      10.0.22621
+Architecture:    AMD64
+Platform:        Windows-10-10.0.22621-SP0
+
+Python exe:      C:\Users\mkmy7\myvenv\Scripts\python.exe
+Python version:  3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)]
+Virtual env:     True
+Conda env:       False
+
+Briefcase:       0.3.14
+Target platform: windows
+Target format:   None
+
+Environment Variables:
+    ALLUSERSPROFILE=C:\ProgramData
+    APPDATA=C:\Users\mkmy7\AppData\Roaming
+    COMMONPROGRAMFILES=C:\Program Files\Common Files
+    COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+    COMMONPROGRAMW6432=C:\Program Files\Common Files
+    COMPUTERNAME=DESKTOP-GDM50PE
+    COMSPEC=C:\WINDOWS\system32\cmd.exe
+    CONFIGSETROOT=C:\WINDOWS\ConfigSetRoot
+    DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+    EFC_10544=1
+    FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+    FPS_BROWSER_USER_PROFILE_STRING=Default
+    HOMEDRIVE=C:
+    HOMEPATH=\Users\mkmy7
+    INTELLIJ IDEA COMMUNITY EDITION=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin;
+    JAVA_HOME=C:\Program Files\Java\jdk-18.0.2
+    LOCALAPPDATA=C:\Users\mkmy7\AppData\Local
+    LOGONSERVER=\\DESKTOP-GDM50PE
+    NUMBER_OF_PROCESSORS=8
+    ONEDRIVE=C:\Users\mkmy7\OneDrive
+    OS=Windows_NT
+    PATH=C:\Users\mkmy7\myvenv\Scripts;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Python311;C:\Program Files\Python311\Scripts;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\mkmy7\AppData\Local\Microsoft\WindowsApps;C:\Users\mkmy7\AppData\Local\afreeca;C:\Program Files\Java\jdk-18.0.2\bin;C:\Users\mkmy7\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin;;C:\Users\mkmy7\AppData\Local\GitHubDesktop\bin;
+    PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+    PROCESSOR_ARCHITECTURE=AMD64
+    PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+    PROCESSOR_LEVEL=6
+    PROCESSOR_REVISION=8c01
+    PROGRAMDATA=C:\ProgramData
+    PROGRAMFILES=C:\Program Files
+    PROGRAMFILES(X86)=C:\Program Files (x86)
+    PROGRAMW6432=C:\Program Files
+    PROMPT=(myvenv) $P$G
+    PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+    PUBLIC=C:\Users\Public
+    SESSIONNAME=Console
+    SYSTEMDRIVE=C:
+    SYSTEMROOT=C:\WINDOWS
+    TEMP=C:\Users\mkmy7\AppData\Local\Temp
+    TMP=C:\Users\mkmy7\AppData\Local\Temp
+    USERDOMAIN=DESKTOP-GDM50PE
+    USERDOMAIN_ROAMINGPROFILE=DESKTOP-GDM50PE
+    USERNAME=mkmy7
+    USERPROFILE=C:\Users\mkmy7
+    VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+    VIRTUAL_ENV=C:\Users\mkmy7\myvenv
+    VIRTUAL_ENV_PROMPT=(myvenv) 
+    WINDIR=C:\WINDOWS
+    ZES_ENABLE_SYSMAN=1
+    _OLD_VIRTUAL_PATH=C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Python311;C:\Program Files\Python311\Scripts;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\mkmy7\AppData\Local\Microsoft\WindowsApps;C:\Users\mkmy7\AppData\Local\afreeca;C:\Program Files\Java\jdk-18.0.2\bin;C:\Users\mkmy7\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin;;C:\Users\mkmy7\AppData\Local\GitHubDesktop\bin;
+    _OLD_VIRTUAL_PROMPT=$P$G
+
+Briefcase Log:
+[18:45:48]                                                                                                                                                                dev.py:208
+           [Splash_Warriors] Starting in dev mode...                                                                                                                      dev.py:208
+                                                                                                                                                                   subprocess.py:675
+           >>> Running Command:                                                                                                                                    subprocess.py:676
+           >>>     'C:\Users\mkmy7\myvenv\Scripts\python.exe' -u -X dev -X utf8 -c 'import runpy,                                                                  subprocess.py:677
+           sys;sys.path.pop(0);sys.argv.extend([]);runpy.run_module("Splash_Warriors", run_name="__main__", alter_sys=True)'                                                        
+           >>> Working Directory:                                                                                                                                  subprocess.py:684
+           >>>     C:\Users\mkmy7                                                                                                                                  subprocess.py:685
+           >>> Environment Overrides:                                                                                                                              subprocess.py:694
+           >>>     PYTHONPATH=C:\Users\mkmy7\Splash_Warriors\src                                                                                                   subprocess.py:696
+           >>>     PYTHONMALLOC=default                                                                                                                            subprocess.py:696
+           ===========================================================================                                                                                    run.py:161
+[18:45:49] Traceback (most recent call last):                                                                                                                      subprocess.py:645
+             File "<string>", line 1, in <module>                                                                                                                  subprocess.py:645
+             File "<frozen runpy>", line 226, in run_module                                                                                                        subprocess.py:645
+             File "<frozen runpy>", line 98, in _run_module_code                                                                                                   subprocess.py:645
+             File "<frozen runpy>", line 88, in _run_code                                                                                                          subprocess.py:645
+             File "C:\Users\mkmy7\Splash_Warriors\src\Splash_Warriors\__main__.py", line 4, in <module>                                                            subprocess.py:645
+               main().main_loop()                                                                                                                                  subprocess.py:645
+             File "C:\Users\mkmy7\myvenv\Lib\site-packages\toga\app.py", line 563, in main_loop                                                                    subprocess.py:645
+               self._impl.main_loop()                                                                                                                              subprocess.py:645
+             File "C:\Users\mkmy7\myvenv\Lib\site-packages\toga_winforms\app.py", line 260, in main_loop                                                           subprocess.py:645
+               raise self._exception                                                                                                                               subprocess.py:645
+             File "C:\Users\mkmy7\myvenv\Lib\site-packages\toga_winforms\app.py", line 235, in run_app                                                             subprocess.py:645
+               self.create()                                                                                                                                       subprocess.py:645
+             File "C:\Users\mkmy7\myvenv\Lib\site-packages\toga_winforms\app.py", line 126, in create                                                              subprocess.py:645
+               self.interface.startup()                                                                                                                            subprocess.py:645
+             File "C:\Users\mkmy7\Splash_Warriors\src\Splash_Warriors\app.py", line 10, in startup                                                                 subprocess.py:645
+               name_label = toga.Label(                                                                                                                            subprocess.py:645
+                            ^^^^^^^^^^^                                                                                                                            subprocess.py:645
+           TypeError: Label.__init__() got an unexpected keyword argument 'alignment'                                                                              subprocess.py:645
+                                                                                                                                                                      __main__.py:40
+           Problem running app Splash_Warriors.                                                                                                                       __main__.py:41
+
+Main thread traceback:
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\mkmy7\myvenv\Lib\site-packages\briefcase\__main__.py:25 in main                                                                                                         │
+│                                                                                                                                                                                  │
+│   22 │   │   command = Command(logger=logger, console=console)                                                                                                                   │
+│   23 │   │   options = command.parse_options(extra=extra_cmdline)                                                                                                                │
+│   24 │   │   command.parse_config(Path.cwd() / "pyproject.toml")                                                                                                                 │
+│ ❱ 25 │   │   command(**options)                                                                                                                                                  │
+│   26 │   except HelpText as e:                                                                                                                                                   │
+│   27 │   │   logger.info()                                                                                                                                                       │
+│   28 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────╮                                                      │
+│ │       command = <briefcase.commands.dev.DevCommand object at 0x000001FC08384150>                                        │                                                      │
+│ │       Command = <class 'briefcase.commands.dev.DevCommand'>                                                             │                                                      │
+│ │       console = <briefcase.console.Console object at 0x000001FC07F29B50>                                                │                                                      │
+│ │             e = BriefcaseCommandError('Problem running app Splash_Warriors.')                                           │                                                      │
+│ │ extra_cmdline = []                                                                                                      │                                                      │
+│ │        logger = <briefcase.console.Log object at 0x000001FC049B5F50>                                                    │                                                      │
+│ │       options = {'appname': None, 'update_requirements': False, 'run_app': True, 'test_mode': False, 'passthrough': []} │                                                      │
+│ │        result = 200                                                                                                     │                                                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                      │
+│                                                                                                                                                                                  │
+│ C:\Users\mkmy7\myvenv\Lib\site-packages\briefcase\commands\dev.py:210 in __call__                                                                                                │
+│                                                                                                                                                                                  │
+│   207 │   │   │   else:                                                                                                                                                          │
+│   208 │   │   │   │   self.logger.info("Starting in dev mode...", prefix=app.app_name)                                                                                           │
+│   209 │   │   │   env = self.get_environment(app, test_mode=test_mode)                                                                                                           │
+│ ❱ 210 │   │   │   return self.run_dev_app(                                                                                                                                       │
+│   211 │   │   │   │   app,                                                                                                                                                       │
+│   212 │   │   │   │   env,                                                                                                                                                       │
+│   213 │   │   │   │   test_mode=test_mode,                                                                                                                                       │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────── locals ──────────────────────────────────────────────────╮                                                                    │
+│ │                 app = <com.example.Splash_Warriors v0.0.1 AppConfig>                                      │                                                                    │
+│ │             appname = None                                                                                │                                                                    │
+│ │      dist_info_path = WindowsPath('C:/Users/mkmy7/Splash_Warriors/src/Splash_Warriors.dist-info')         │                                                                    │
+│ │                 env = {'PYTHONPATH': 'C:\\Users\\mkmy7\\Splash_Warriors\\src', 'PYTHONMALLOC': 'default'} │                                                                    │
+│ │             options = {}                                                                                  │                                                                    │
+│ │         passthrough = []                                                                                  │                                                                    │
+│ │             run_app = True                                                                                │                                                                    │
+│ │                self = <briefcase.commands.dev.DevCommand object at 0x000001FC08384150>                    │                                                                    │
+│ │           test_mode = False                                                                               │                                                                    │
+│ │ update_requirements = False                                                                               │                                                                    │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                    │
+│                                                                                                                                                                                  │
+│ C:\Users\mkmy7\myvenv\Lib\site-packages\briefcase\commands\dev.py:131 in run_dev_app                                                                                             │
+│                                                                                                                                                                                  │
+│   128 │   │   )                                                                                                                                                                  │
+│   129 │   │                                                                                                                                                                      │
+│   130 │   │   # Start streaming logs for the app.                                                                                                                                │
+│ ❱ 131 │   │   self._stream_app_logs(                                                                                                                                             │
+│   132 │   │   │   app,                                                                                                                                                           │
+│   133 │   │   │   popen=app_popen,                                                                                                                                               │
+│   134 │   │   │   test_mode=test_mode,                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────── locals ──────────────────────────────────────────────╮                                                                            │
+│ │         app = <com.example.Splash_Warriors v0.0.1 AppConfig>                                      │                                                                            │
+│ │   app_popen = <Popen: returncode: 1 args: ['C:\\Users\\mkmy7\\myvenv\\Scripts\\python.exe'...>    │                                                                            │
+│ │         env = {'PYTHONPATH': 'C:\\Users\\mkmy7\\Splash_Warriors\\src', 'PYTHONMALLOC': 'default'} │                                                                            │
+│ │ main_module = 'Splash_Warriors'                                                                   │                                                                            │
+│ │     options = {}                                                                                  │                                                                            │
+│ │ passthrough = []                                                                                  │                                                                            │
+│ │        self = <briefcase.commands.dev.DevCommand object at 0x000001FC08384150>                    │                                                                            │
+│ │   test_mode = False                                                                               │                                                                            │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                            │
+│                                                                                                                                                                                  │
+│ C:\Users\mkmy7\myvenv\Lib\site-packages\briefcase\commands\run.py:191 in _stream_app_logs                                                                                        │
+│                                                                                                                                                                                  │
+│   188 │   │   │   │   # If we're monitoring an actual app (not just a log stream),                                                                                               │
+│   189 │   │   │   │   # and the app didn't exit cleanly, surface the error to the user.                                                                                          │
+│   190 │   │   │   │   if popen.returncode != 0:                                                                                                                                  │
+│ ❱ 191 │   │   │   │   │   raise BriefcaseCommandError(f"Problem running app {app.app_name}.")                                                                                    │
+│   192 │   │                                                                                                                                                                      │
+│   193 │   │   except KeyboardInterrupt:                                                                                                                                          │
+│   194 │   │   │   pass  # Catch CTRL-C to exit normally                                                                                                                          │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ─────────────────────────────────────────────╮                                                                              │
+│ │          app = <com.example.Splash_Warriors v0.0.1 AppConfig>                                   │                                                                              │
+│ │ clean_filter = None                                                                             │                                                                              │
+│ │ clean_output = False                                                                            │                                                                              │
+│ │  exit_filter = <function LogFilter.test_filter.<locals>.filter_func at 0x000001FC08393880>      │                                                                              │
+│ │   log_filter = <briefcase.commands.run.LogFilter object at 0x000001FC082CDFD0>                  │                                                                              │
+│ │   log_stream = False                                                                            │                                                                              │
+│ │        popen = <Popen: returncode: 1 args: ['C:\\Users\\mkmy7\\myvenv\\Scripts\\python.exe'...> │                                                                              │
+│ │         self = <briefcase.commands.dev.DevCommand object at 0x000001FC08384150>                 │                                                                              │
+│ │    stop_func = <function RunAppMixin.<lambda> at 0x000001FC08391120>                            │                                                                              │
+│ │    test_mode = False                                                                            │                                                                              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Problem running app Splash_Warriors.
