@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\mkmy7\.gradle\caches\transforms-3\5458f59e57fe81ec550a00e54eae66f7\transformed\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkmy7\.gradle\caches\transforms-3\d2003dee811fb0c4b3afe2131fa94024\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\0e92a393ea688d4c666a78bb2ba33e7b\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\752d570cb497e7306a78c43130ddfe7b\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\141fff44df58c8b84be37d92704c414e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\2c5c029ebffd6c64887bec2d564dd9c8\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\07a48210160502e72a78151512277973\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\mkmy7\.gradle\caches\transforms-3\8dbc48fa66279b8779c3df684ee34cbd\transformed\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\66584cea3d18301a512d9227e43128f7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\a10ed8ff24224c6390405510246f6a6d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\0835845d2219b87319463f06ef826f49\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\038815ffe387631ffeff8fe3dae1788e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\59ca14464d0645419321c8f99ccbd117\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\cac9fb538b821155c938682d5c06a6a8\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\684a5665362f5fde571031c558df344c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\c6bf576975664d8648d381a351456239\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\047629de0110d7d8d82a5a7ca6539499\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\5285abcdd861c7d43782356a732a4753\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\f90da2ede87eb56e9c1782a0a0f9bd43\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\31fc6f2ad504f6bb451a7162f6aad65a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\b4d588f30f34be1cfa1cb4470ce55487\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\26e44dc5b0909124ec5db28010c5d262\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\3d8a7ee47126acb4628cfa4ce9406e04\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\7db15d8dc280a82ab1cb3ea5d74ed85a\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\5551314f87175df94d1bacf04aa70e86\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\92564980a214db363dc567e9a19036cc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\a088c4fca1c21cfe7d0ea944241079e6\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkmy7\.gradle\caches\transforms-3\d2003dee811fb0c4b3afe2131fa94024\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkmy7\.gradle\caches\transforms-3\d2003dee811fb0c4b3afe2131fa94024\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\c6bf576975664d8648d381a351456239\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\c6bf576975664d8648d381a351456239\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\047629de0110d7d8d82a5a7ca6539499\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\047629de0110d7d8d82a5a7ca6539499\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\c6bf576975664d8648d381a351456239\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:9:9-44
+	android:roundIcon
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:13:9-49
+	android:networkSecurityConfig
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:10:9-69
+activity#org.beeware.android.MainActivity
+ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:15:7-23:20
+	android:exported
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:18:13-36
+	android:configChanges
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:16:13-87
+	android:name
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:17:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\mkmy7\.gradle\caches\transforms-3\5458f59e57fe81ec550a00e54eae66f7\transformed\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\mkmy7\.gradle\caches\transforms-3\5458f59e57fe81ec550a00e54eae66f7\transformed\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkmy7\.gradle\caches\transforms-3\d2003dee811fb0c4b3afe2131fa94024\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkmy7\.gradle\caches\transforms-3\d2003dee811fb0c4b3afe2131fa94024\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\0e92a393ea688d4c666a78bb2ba33e7b\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\0e92a393ea688d4c666a78bb2ba33e7b\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\752d570cb497e7306a78c43130ddfe7b\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\752d570cb497e7306a78c43130ddfe7b\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\141fff44df58c8b84be37d92704c414e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\141fff44df58c8b84be37d92704c414e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\2c5c029ebffd6c64887bec2d564dd9c8\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\2c5c029ebffd6c64887bec2d564dd9c8\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\07a48210160502e72a78151512277973\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\07a48210160502e72a78151512277973\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\mkmy7\.gradle\caches\transforms-3\8dbc48fa66279b8779c3df684ee34cbd\transformed\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\mkmy7\.gradle\caches\transforms-3\8dbc48fa66279b8779c3df684ee34cbd\transformed\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\66584cea3d18301a512d9227e43128f7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\66584cea3d18301a512d9227e43128f7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\a10ed8ff24224c6390405510246f6a6d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\a10ed8ff24224c6390405510246f6a6d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\0835845d2219b87319463f06ef826f49\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\0835845d2219b87319463f06ef826f49\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\038815ffe387631ffeff8fe3dae1788e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\038815ffe387631ffeff8fe3dae1788e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\59ca14464d0645419321c8f99ccbd117\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\59ca14464d0645419321c8f99ccbd117\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\cac9fb538b821155c938682d5c06a6a8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\cac9fb538b821155c938682d5c06a6a8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\684a5665362f5fde571031c558df344c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\684a5665362f5fde571031c558df344c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\c6bf576975664d8648d381a351456239\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\c6bf576975664d8648d381a351456239\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\047629de0110d7d8d82a5a7ca6539499\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkmy7\.gradle\caches\transforms-3\047629de0110d7d8d82a5a7ca6539499\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\5285abcdd861c7d43782356a732a4753\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\5285abcdd861c7d43782356a732a4753\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\f90da2ede87eb56e9c1782a0a0f9bd43\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\f90da2ede87eb56e9c1782a0a0f9bd43\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\31fc6f2ad504f6bb451a7162f6aad65a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\31fc6f2ad504f6bb451a7162f6aad65a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\b4d588f30f34be1cfa1cb4470ce55487\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\b4d588f30f34be1cfa1cb4470ce55487\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\26e44dc5b0909124ec5db28010c5d262\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\26e44dc5b0909124ec5db28010c5d262\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\3d8a7ee47126acb4628cfa4ce9406e04\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\3d8a7ee47126acb4628cfa4ce9406e04\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\7db15d8dc280a82ab1cb3ea5d74ed85a\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\7db15d8dc280a82ab1cb3ea5d74ed85a\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\5551314f87175df94d1bacf04aa70e86\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\5551314f87175df94d1bacf04aa70e86\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\92564980a214db363dc567e9a19036cc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\92564980a214db363dc567e9a19036cc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\a088c4fca1c21cfe7d0ea944241079e6\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mkmy7\.gradle\caches\transforms-3\a088c4fca1c21cfe7d0ea944241079e6\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mkmy7\Splash_Warriors\build\Splash_Warriors\android\gradle\app\src\main\AndroidManifest.xml
